@@ -1,9 +1,0 @@
-echo "" > /var/log/auth.log   #Clear auth.log file
-history -c                    #CLear current session history
-kill -9 $$                    #Kills current session history
-export HISTFILESIZE=0         #Set history max lines to 0
-unset HISTFILE                #History max commands to 0
-unset HISTFILE		      #Disable history logging
-echo """ > ~/.bash_history    #Delete current user history bash
-rm ~/.bash_history -rf 	      #Delete .bash_history file
-
