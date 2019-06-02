@@ -1,4 +1,4 @@
-# Cover your tracks 🐱‍💻
+# Cover your tracks 🐱‍💻 :key:
 
 1. [Clearing user's history](https://github.com/xh3n1/cover-your-tracks/blob/master/linux.md#clearing-users-history)
 2. [Clearing syslog log files](https://github.com/xh3n1/cover-your-tracks/blob/master/linux.md#clearing-syslog-log-files)
